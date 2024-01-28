@@ -1,0 +1,48 @@
+1706378230585	geckodriver	INFO	Listening on 127.0.0.1:54309
+1706378233693	mozrunner::runner	INFO	Running command: "C:\\Users\\KenyRamadhan\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remote-deb ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KENYRA~1\\AppData\\Local\\Temp\\rust_mozprofileksLJFe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706378240003	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706378240142	Marionette	INFO	Listening on port 54337
+WebDriver BiDi listening on ws://127.0.0.1:54310
+Read port: 54337
+1706378240390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54310/devtools/browser/a803d559-914d-4ff2-8fa5-5531bcbcd7a1
+1706378250695	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1706378270105	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google-analytics.com/analytics.js, line 26: Script terminated by timeout at:
+ee.prototype.get@https://www.google-analytics.com/analytics.js:26:186
+Ya.prototype.get@https://www.google-analytics.com/analytics.js:45:786
+X/b[a]@https://www.google-analytics.com/analytics.js:57:58
+td@https://www.google-analytics.com/analytics.js:79:130
+pc@https://www.google-analytics.com/analytics.js:76:208
+N.create@https://www.google-analytics.com/analytics.js:94:345
+X/b[a]@https://www.google-analytics.com/analytics.js:57:58
+Z.v@https://www.google-analytics.com/analytics.js:93:117
+Z.D@https://www.google-analytics.com/analytics.js:92:178
+N@https://www.google-analytics.com/analytics.js:94:130
+VD@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:514:227
+WD/<@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:518:452
+Kj@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:240:72
+Xj@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:242:350
+WD@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:518:438
+@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:632:411
+vf@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:160:132
+e@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:427:216
+Wa/<@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:106:130
+Yv/<@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:428:408
+Wv/<@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:428:148
+Xw@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:436:806
+fx@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:441:191
+by@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:457:272
+ey@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:462:57
+iy/b.push@https://www.googletagmanager.com/gtm.js?id=GTM-PT7PC4:466:315
+iy/b.push@https://www.googletagmanager.com/gtag/js?id=G-7KGEC8EBBM&l=dataLayer&cx=c:460:165
+sendToGTM@https://www.kompas.com/%20chrome line 659 > injectedScript:1:37
+s/<@https://unpkg.com/web-vitals@1.1.1/dist/web-vitals.umd.js:1:1176
+m@https://unpkg.com/web-vitals@1.1.1/dist/web-vitals.umd.js:1:3438
+n@https://unpkg.com/web-vitals@1.1.1/dist/web-vitals.umd.js:1:712
+
+1706378307203	Marionette	INFO	Stopped listening on port 54337
+Dynamically enable window occlusion 1
